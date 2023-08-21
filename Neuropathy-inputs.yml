@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/neuropathy-tactile---primary.py
+inputModule3:
+  class: File
+  path: python/neuropathy-touch---primary.py
+inputModule4:
+  class: File
+  path: python/neuropathy-anaesthesia---primary.py
+inputModule5:
+  class: File
+  path: python/neuropathy-present---primary.py
+inputModule6:
+  class: File
+  path: python/absent-neuropathy---primary.py
+inputModule7:
+  class: File
+  path: python/abnormal-neuropathy---primary.py
+inputModule8:
+  class: File
+  path: python/neuropathy-sense---primary.py
+inputModule9:
+  class: File
+  path: python/neuropathy-reduced---primary.py
+inputModule10:
+  class: File
+  path: python/right-neuropathy---primary.py
+inputModule11:
+  class: File
+  path: python/neuropathy-monofilament---primary.py
+inputModule12:
+  class: File
+  path: python/neuropathy---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
